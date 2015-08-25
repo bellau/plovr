@@ -93,7 +93,7 @@
            includeantruntime="false"
            encoding="UTF-8"
            >
-      <compilerarg value="-Werror"/>
+<!--      <compilerarg value="-Werror"/> -->
       <src path="${closure-stylesheets.dir}/src" />
       <src path="${closure-stylesheets.dir}/build/genfiles" />
     </javac>
